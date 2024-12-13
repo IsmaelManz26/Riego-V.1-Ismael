@@ -1,0 +1,20 @@
+{
+    "lista": [
+        { "name": "riego1", "state": false },
+        { "name": "riego2", "state": false },
+        { "name": "riego3", "state": false },
+        { "name": "riego4", "state": false },
+        { "name": "riego5", "state": false },
+        { "name": "riego6", "state": false },
+        { "name": "riego7", "state": false },
+        { "name": "riego8", "state": false },
+        { "name": "riego9", "state": false },
+        { "name": "riego10", "state": false },
+        { "name": "riego11", "state": false },
+        { "name": "riego12", "state": false },
+        { "name": "riego13", "state": false },
+        { "name": "riego14", "state": false },
+        { "name": "riego15", "state": false },
+        { "name": "riego16", "state": false }
+    ]
+}
